@@ -1,16 +1,17 @@
-## Hi there 👋
+Header
 
-<!--
-**echoz04/echoz04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a beginner Unity developer specializing in architecture
 
-Here are some ideas to get you started:
+# Latest Twitter Post
+<!-- X:START -->
+<!-- X:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+![Unity](https://img.shields.io/badge/-UNITY-212121?style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-6A5ACD?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
+![Zenject](https://img.shields.io/badge/-Zenject-32CD32?style=for-the-badge)   
+
+#### You can also catch me
+
+[![X.com](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/echoz04)
