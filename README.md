@@ -1,10 +1,4 @@
-Header
-
 ## I'm a beginner Unity developer specializing in architecture
-
-### Latest Twitter Post
-<!-- X:START -->
-<!-- X:END -->
 
 ### Languages and Tools
 
