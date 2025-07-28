@@ -9,5 +9,3 @@
 #### You can also catch me
 
 [![X.com](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/echoz04)
-
-[![echoz04's GitHub stats](https://github-readme-stats.vercel.app/api?username=echoz04&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
