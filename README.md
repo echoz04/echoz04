@@ -2,7 +2,7 @@ Header
 
 ## I'm a beginner Unity developer specializing in architecture
 
-# Latest Twitter Post
+### Latest Twitter Post
 <!-- X:START -->
 <!-- X:END -->
 
