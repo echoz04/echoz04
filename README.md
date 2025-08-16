@@ -1,12 +1,11 @@
-## I'm a beginner Unity developer specializing in architecture
+## I'm a Software Engineer
 
 ### Languages and Tools
 
 ![Unity](https://img.shields.io/badge/-UNITY-212121?style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-6A5ACD?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge)
-![Zenject](https://img.shields.io/badge/-Zenject-32CD32?style=for-the-badge)
-![vContainer](https://img.shields.io/badge/-vContainer-007ACC?style=for-the-badge)
+![DI](https://img.shields.io/badge/-DI-32CD32?style=for-the-badge)
 ![UniTask](https://img.shields.io/badge/-UniTask-1E90FF?style=for-the-badge)
 ![Reactive Programming](https://img.shields.io/badge/-Reactive%20Programming-FF1493?style=for-the-badge)
 ![DoTween](https://img.shields.io/badge/-DoTween-FF6347?style=for-the-badge)
